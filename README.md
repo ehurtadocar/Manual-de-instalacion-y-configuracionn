@@ -1,1 +1,1 @@
-# Manual-de-instalacion-y-configuracionn
+# manual-de-instalacion-y-configuracion
