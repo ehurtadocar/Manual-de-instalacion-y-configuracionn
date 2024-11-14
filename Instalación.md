@@ -1,4 +1,4 @@
-1. Abrir el enlace de instalacion del archivo .zip 
+1. Abrir el enlace de instalacion del archivo
 [.zip](https://github.com/rusben/smx-m08/blob/main/docs/installacio-clouds.md)
 
 2. Hacer click donde pone: "Heu de baixar el .zip de ownCloud Server"
